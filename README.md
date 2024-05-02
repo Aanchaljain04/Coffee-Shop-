@@ -1,6 +1,7 @@
-# Coffee Shop Sales- Maven Roasters
+# Coffee Shop Sales- Maven Roasters ☕📊
+![Dashboard](https://github.com/Aanchaljain04/Coffee_Shop_Sales--Maven-Roasters/assets/47006604/06199310-fc90-460a-80bf-f63d6e26aed5)
 
-The Coffee Shop Dashboard project aimed to revolutionize Maven Roaster's operational strategy through comprehensive data analysis and visualization. By leveraging transactional data spanning from January to June 2023, this project endeavored to provide invaluable insights into sales performance, customer behavior, and product trends across three locations in New York City.
+This Coffee Shop Dashboard project aimed to revolutionize Maven Roaster's operational strategy through comprehensive data analysis and visualization. By leveraging transactional data spanning from January to June 2023, this project endeavored to provide invaluable insights into sales performance, customer behavior, and product trends across three locations in New York City.
 
 ## Key Objectives:
 - **Data Preparation and Profiling:** The initial phase involved meticulous data cleansing and profiling to ensure accuracy and reliability. Calculated fields such as revenue, month, day of the week, and hour of the day were added to facilitate in-depth analysis.
