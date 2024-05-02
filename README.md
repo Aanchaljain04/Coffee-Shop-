@@ -15,3 +15,7 @@ This Coffee Shop Dashboard project aimed to revolutionize Maven Roaster's operat
 - **Evening Transaction Decline:** Transactions sharply decline after 7 PM, suggesting potential cost savings by adjusting late afternoon opening hours to minimize expenses like electricity, rent, and labor costs.
 - **Product Performance:** Brewed Chai tea is the top-selling product by transaction quantity, while Barista Espresso leads in revenue generation among product types.
 - **Coffee Dominance:** Coffee emerges as the top category, indicating its significance in driving sales and revenue.
+
+- ## Links
+* LinkedIn - https://www.linkedin.com/in/aanchal-jain-38a800180/
+* Mail- aanchal04jain@gmail.com
